@@ -30,10 +30,15 @@ https://github.com/BAIXIA-XIA/whale-star-sea/releases/download/v1.5/AI-GalGame_v
 - **V1.3** CG 系统、差分立绘、出场动画
 - **V1.0** 首版发布，前三幕剧情
 
+## 📄 开源协议
+
+本项目遵循 **MIT License**（详见 LICENSE 文件）。
+
 ## 📌 声明
 
 - 本游戏为免费分享作品，仅供娱乐。
-- 源码与素材暂不公开，请尊重原创，禁止抄袭与二次商用。
+- 源码与素材暂未公开；公开后将同样适用 MIT 许可。
+- 请尊重原创，勿将作品冒充为官方或其他主体发布。
 - 有问题欢迎在 Issues 反馈。
 
 ---
