@@ -29,8 +29,9 @@ https://github.com/BAIXIA-XIA/whale-star-sea/releases/download/v1.7.2/AI-GalGame
 - **V1.0** 首版发布，前三幕剧情
 
 ## 📌 协议与声明
+- 本游戏遵循 **MIT License**（详见 LICENSE 文件）。
 - 本游戏为免费分享作品，仅供娱乐。
-- 源码与美术素材暂未公开（闭源免费发布），Release 仅提供 APK 下载。
+- 源码与美术素材暂未公开（Release 仅提供 APK 下载）；未来公开源码时同样适用 MIT 许可。
 - 请尊重原创，勿将作品冒充为官方或其他主体发布。
 - 有问题欢迎在 Issues 反馈。
 
